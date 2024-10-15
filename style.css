@@ -1,4 +1,11 @@
-body {
+*{
+margin: 0;
+padding: 0;
+}
+
+
+
+.cabecario {
     background: color #424e61;
     color: white;
     display: flex;
@@ -7,3 +14,7 @@ body {
 .cabecario-img{
     width: 20%;
 }
+    .cabecario-lista-item{
+        display: inline-block;
+        margin: 0 16px;
+    }
