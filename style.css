@@ -2,17 +2,17 @@
 margin: 0;
 padding: 0;
 }
-.cabecario {
+.cabecalho{
     background: color #424e61;
     color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
-.cabecario-img{
+.cabecalho-img{
     width: 20%;
 }
-    .cabecario-lista-item{
+    .cabecalho-lista-item{
         display: inline-block;
         margin: 0 16px;
     }
